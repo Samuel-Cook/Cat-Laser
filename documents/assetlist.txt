@@ -1,0 +1,93 @@
+asset list CLUTTER:
+
+sofa
+lamps
+tables
+paintings
+pillows
+bowls
+chairs
+books
+bookshelfs
+lighting
+celling fan
+fireplace
+picture places
+momentos
+coffee cups
+pen/pencil cups
+pot plant
+tisue box
+TVs
+Laptops
+Clocks
+Candles
+Mirrors
+Bin
+Paper(crumpled)
+Cookie jar
+DVDs
+Hats
+Hat and coat stan
+Coat
+Sink
+Windows
+Cupboards
+dominos
+Pizza box
+computer desktop
+monitors
+door
+
+Asset gameplay:
+Cat
+lazerpointer
+human hand models
+
+Asset components:
+Menu buttons
+main menu,
+options,
+how to play,
+leaderboards/highscore,
+play button
+
+Assets enviroments x4:
+bedroom,
+livingroom,
+
+Asset danger:
+blender
+Mircowave oven
+garbage compactor
+plug sockets
+
+
+Animation assets
+Cat_Walk
+Cat_Run
+Cat_Wipe x4
+Cat_Pounce x5
+Cat_jump_shelf
+Cat_jump_bookshelf
+Cat_jump_windowsill
+Cat_jump_potplant
+Cat_Swipe_left
+Cat_Swipe_right
+Cat_Swipe_pounceinto
+Cat_Turn
+Cat_running_turn
+Cat_wallplant
+Cat_wall_jump
+Cat_wall_hang
+Cat_idle
+Cat_Easteregg_Curious
+Cat_Easteregg_swingfan
+Cat_Easteregg_Ventcrawl
+Cat_water_socked
+Cat_Panic
+Cat_Idle_Cleaningself
+Humanhand_onlazer
+Humanhand_offlazer
+
+Sounds Assets:
